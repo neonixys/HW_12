@@ -1,0 +1,30 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2022 09:40:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2022 09:40:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняю поиск
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2022 09:40:57] "GET /search/?s=привет HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2022 09:40:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2022 09:47:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2022 09:47:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняю поиск
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2022 09:47:19] "GET /search/?s=ssa HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Выполняю поиск
+ERROR:root:Файл не найден
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2022 09:48:50] "GET /search/?s=ssa HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Выполняю поиск
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2022 09:49:41] "GET /search/?s=ssa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2022 09:49:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
